@@ -17,4 +17,4 @@ jobs:
           cache: gradle
 
       - name: Build with Gradle
-        run: ./gradlew clean bootJar
+        run: ./gradlew bootJar
