@@ -8,7 +8,7 @@ buildscript {
 
     repositories {
         mavenLocal()
-        maven { url 'https://maven.aliyun.com/repository/public' } // used in China network
+        // maven { url 'https://maven.aliyun.com/repository/public' } // used in China network
         mavenCentral()
     }
 
